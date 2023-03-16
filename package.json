@@ -1,0 +1,23 @@
+{
+  "name": "support-team-sandbox",
+  "version": "1.0.0",
+  "description": "Small project for quickly reproducing customer issues",
+  "scripts": {
+    "cypress:run": "cypress run",
+    "cypress:open": "cypress open",
+    "cypress:verify": "cypress verify",
+    "cypress:version": "cypress version",
+    "cypress:info": "cypress info",
+    "cypress:cache:list": "cypress cache list",
+    "list-videos": "ls -l cypress/videos"
+  },
+  "keywords": [],
+  "author": "Cypress Support Team",
+  "license": "ISC",
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cypress-io/support-team-sandbox.git"
+  }
+}
