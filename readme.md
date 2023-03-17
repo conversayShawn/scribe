@@ -73,7 +73,7 @@ git push origin YOUR_BRANCH
 **10. Copy "Record Key" and "Project Id" to clipboard**<br />
 **Click here**
 
-![](https://colony-recorder.s3.amazonaws.com/files/2023-03-17/946f54c0-cd18-4122-9cff-7149dfeefc5b/stack_animation.webp&amp;wat_pad=51,139)
+![](https://colony-recorder.s3.amazonaws.com/files/2023-03-17/946f54c0-cd18-4122-9cff-7149dfeefc5b/stack_animation.webp)
 
 **11. Navigate back to https://app.circleci.com/pipelines/**<br />
 **Click "YOUR_PROJECT"**<br />
