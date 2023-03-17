@@ -47,7 +47,7 @@ git push origin YOUR_BRANCH
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-16/e81aa589-7675-492b-a4d4-372bb5a2792b/ascreenshot.jpeg?tl_px=756,380&amp;br_px=1502,800&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=1&amp;wat_gravity=northwest&amp;wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/28e69b_standard.png&amp;wat_pad=262,139)
 
-**8. Navigate to https://cloud.cypress.io**
+**8. Navigate to https://cloud.cypress.io**<br />
 **Click "YOUR_PROJECT"**
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-16/e0ed4fca-f15f-43f7-8948-6ee43567e3f6/user_cropped_screenshot.jpeg?tl_px=250,4&amp;br_px=996,424&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=1&amp;wat_gravity=northwest&amp;wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/28e69b_standard.png&amp;wat_pad=262,139)
@@ -56,13 +56,13 @@ git push origin YOUR_BRANCH
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-16/03850c81-493f-49c4-b48d-88df7f85e3ff/ascreenshot.jpeg?tl_px=0,433&amp;br_px=746,853&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=1&amp;wat_gravity=northwest&amp;wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/28e69b_standard.png&amp;wat_pad=84,139)
 
-**10. Copy "Record Key" and "Project Id" to clipboard**
+**10. Copy "Record Key" and "Project Id" to clipboard**<br />
 **Click here**
 
 ![](https://colony-recorder.s3.amazonaws.com/files/2023-03-17/946f54c0-cd18-4122-9cff-7149dfeefc5b/stack_animation.webp)
 
-**11. Navigate back to https://app.circleci.com/pipelines/**
-**Click "YOUR_PROJECT"**
+**11. Navigate back to https://app.circleci.com/pipelines/**<br />
+**Click "YOUR_PROJECT"**<br />
 **Click "Project Settings"**
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-16/086f8b2c-5ce7-4681-915e-71ae7cd819cf/ascreenshot.jpeg?tl_px=1173,123&amp;br_px=1919,543&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=1&amp;wat_gravity=northwest&amp;wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/28e69b_standard.png&amp;wat_pad=467,139)
