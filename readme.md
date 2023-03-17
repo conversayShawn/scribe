@@ -1,6 +1,20 @@
 # CircleCI w/ Parallelization
 ## [Link to Scribe](https://scribehow.com/shared/CircleCI_w_Parallelization__97Vv94EfS4iGYpnXF9OhMQ)
 
+## IMPORTANT
+
+This project DOES NOT include the following:
+- Package manager
+- Cypress dependency in the `package.json`
+
+Installation
+```
+# PACKAGE MANAGER
+npm init or yarn init or pnpm init
+# CYPRESS
+npm i -D cypress or npm i -D cypress@x.x.x (Be sure to use the same command as your package manager)
+```
+
 
 **1. Navigate to your terminal:**
 ```
