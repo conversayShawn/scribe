@@ -33,7 +33,7 @@ git commit -am "add circleci .yml"
 git push origin YOUR_BRANCH
 ```
 
-![](https://colony-recorder.s3.amazonaws.com/files/2023-03-16/6dd8da8e-cf3a-4965-b891-d1a7c0721844/stack_animation.webp&amp;wat_pad=51,139)
+![](https://colony-recorder.s3.amazonaws.com/files/2023-03-16/6dd8da8e-cf3a-4965-b891-d1a7c0721844/stack_animation.webp)
 
 **2. Navigate to https://app.circleci.com/pipelines**
 **Click "Organization Settings"**
