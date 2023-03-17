@@ -1,5 +1,5 @@
 # CircleCI w/ Parallelization
-#### [Made by Shawn Harris with Scribe](https://scribehow.com/shared/CircleCI_w_Parallelization__97Vv94EfS4iGYpnXF9OhMQ)
+#### [Link to Scribe](https://scribehow.com/shared/CircleCI_w_Parallelization__97Vv94EfS4iGYpnXF9OhMQ)
 
 
 **1. Navigate to your terminal:**
