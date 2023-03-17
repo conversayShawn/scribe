@@ -26,7 +26,7 @@ git push origin YOUR_BRANCH
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-16/35d55ee7-fddc-4a7c-8a56-df9b740152be/ascreenshot.jpeg?tl_px=0,156&amp;br_px=746,576&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=1&amp;wat_gravity=northwest&amp;wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/28e69b_standard.png&amp;wat_pad=51,139)
 
-**3. Click "Security"**
+**3. Click "Security"**<br />
 **Click "Yes" to allow Cypress community orb**
 
 ![](https://colony-recorder.s3.amazonaws.com/files/2023-03-16/4aee9b38-a031-4a85-aa00-42ad4ff5587a/stack_animation.webp)
