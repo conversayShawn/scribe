@@ -43,7 +43,7 @@ git push origin YOUR_BRANCH
 **3. Click "Security"**<br />
 **Click "Yes" to allow Cypress community orb**
 
-![](https://colony-recorder.s3.amazonaws.com/files/2023-03-16/4aee9b38-a031-4a85-aa00-42ad4ff5587a/stack_animation.webp&amp;wat_pad=51,139)
+![](https://colony-recorder.s3.amazonaws.com/files/2023-03-16/4aee9b38-a031-4a85-aa00-42ad4ff5587a/stack_animation.webp)
 
 **4. Navigate back to https://app.circleci.com/pipelines**
 
