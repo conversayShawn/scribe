@@ -1,5 +1,5 @@
 # CircleCI w/ Parallelization
-## [Link to Scribe](https://scribehow.com/shared/CircleCI_w_Parallelization__97Vv94EfS4iGYpnXF9OhMQ)
+## <a href="https://scribehow.com/shared/CircleCI_w_Parallelization__97Vv94EfS4iGYpnXF9OhMQ" target="_blank">Link to Scribe</a>
 
 ## IMPORTANT
 
